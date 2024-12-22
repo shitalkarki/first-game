@@ -1,6 +1,5 @@
 import random
 
-
 print("welcome to the game")
 random_number=random.randrange(5)
 #print(x)
@@ -21,3 +20,6 @@ while(i<=chance):
         print('you lose')   
         i=i+1 
 print('computer guess is' ,x)
+
+
+print("this program runs ok")
